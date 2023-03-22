@@ -1,5 +1,19 @@
 # Electronic-archiving-management-system
 
+wWndows formm App aim to Archiving images each image have name ,  description , date 
+
+# Main opearations : 
+    - Add new photo to Archive 
+    - Get photo from Archive 
+    - Update photo (name , description , date)
+    - Download photo from Archive 
+    - Delete photo from Archive 
+    - Add new user 
+    - Update users data (available only for user with permession equal to permission 1)
+    
+# Users permissions : 
+    - Each user have a permission (permission 1 , permission 2 , permission 3 , permission 4)
+    - Each user select permissions that allow to get photo from Archive when he add photo to Archive 
 
 
 
