@@ -1,0 +1,23 @@
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\bin\Debug\Electronic archiving.exe.config
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\bin\Debug\Electronic archiving.exe
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\bin\Debug\Electronic archiving.pdb
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.csproj.AssemblyReference.cache
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.csproj.SuggestedBindingRedirects.cache
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Properties.Resources.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.csproj.GenerateResource.cache
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.csproj.CoreCompileInputs.cache
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.exe
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic archiving.pdb
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Login.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form2.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.GetPhoto.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Save.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form3.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form4.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form5.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form6.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.AddUser.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.UpdateUser.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form7.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form8.resources
+F:\Software Engineering\mastering c#\practice\Electronic archiving\Electronic archiving\obj\Debug\Electronic_archiving.Form9.resources
