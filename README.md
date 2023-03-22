@@ -21,5 +21,9 @@
 ![Login page](https://github.com/ahmed812003/Electronic-archiving-management-system/blob/main/Electronic%20archiving/Resources/get.jpg)
 
 
-# Login page 
-![Login page](https://github.com/ahmed812003/Electronic-archiving-management-system/blob/main/Electronic%20archiving/Resources/login%20.jpg)
+# Update user info 
+![Login page](https://github.com/ahmed812003/Electronic-archiving-management-system/blob/main/Electronic%20archiving/Resources/update.jpg)
+
+
+# Add new user
+![Login page](https://github.com/ahmed812003/Electronic-archiving-management-system/blob/main/Electronic%20archiving/Resources/add%20user.jpg)
