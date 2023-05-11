@@ -1,6 +1,8 @@
 # Electronic-archiving-management-system
 
-wWndows formm App aim to Archiving images each image have name ,  description , date 
+this system used in beni suef university (المشروع الميداني). 
+
+Windows formm App aim to Archiving images each image have name ,  description , date , permision
 
 # Main opearations : 
     - Add new photo to Archive 
